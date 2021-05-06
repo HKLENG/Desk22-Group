@@ -2,9 +2,13 @@
 
 ## Table of contents
 
-[TOC]
+- [Stack Architecture](#jump1)
+- [Back End](#jump2)
+- [Middle Tier](#jump03)
+- [Front End](#jump4)
+- [Deployment Details](#jump5)
 
-## Stack Architecture
+## <span id="jump1">Stack Architecture</span>
 
 Our team decided to use MEAN stack for developing this project, each character stands for:
 
@@ -27,20 +31,20 @@ MERN is the stack of choice for today’s web developers looking to move quickly
 
 Here is an article( [link](https://github.com/STF1998/Desk20/blob/main/report/systemImplementation.md)) about Which Framework to Choose and they did a great study on that. Below is the popularity of three main frameworks over the past 12 months.
 
-<img src="https://github.com/HKLENG/Desk22-Group/blob/main/report/image/Popularity.png" style="zoom:60%;" />
+<img src="https://github.com/HKLENG/Desk22-Group/blob/main/report/image/Popularity.png" />
 
 Each of these frameworks has its own benefits and drawbacks, it's really hard to choose the best. However, as React is quite popular in our homeland, we decided to adopt MEAN as our stack architecture.
 
-## Back End
+## <span id="jump2">Back End</span>
 
 This is an E-R diagram showing the relation between different data.
-
+<div align=center>
 <img src="https://github.com/HKLENG/Desk22-Group/blob/main/report/image/Qin.png" style="zoom:75%;" />
-
+</div>
 Based on the diagram, the database’s structure in MongoDB is designed like below.
-
+<div align=center>
 <img src="https://github.com/HKLENG/Desk22-Group/blob/main/report/image/Qin2.png" alt="Qin2" style="zoom:100%;" />
-
+</div>
 In terms of connection of MongoDB, we choose Mongoose to do the work. It is based on MongoDB and provides Schema, Model and Document objects, which is more convenient than using MongoDB module directly. Schema enables us to define the structure of documents. Persistent storage of data in MongoDB can be implemented by ‘save’ method. When data needs to be queried, for example, display of daily plan, method ‘find’ will conduct it. 
 ```js
 const mongoose = require('mongoose');
@@ -64,7 +68,7 @@ var userSchema = new Schema({
     ......
 })
 ```
-## Middle Tier
+## <span id="jump03">Middle Tier</span>
 
 We used Nodejs and the express framework to build the middle tier. Here are all the modules used in the middle tier, with express as one of the modules to help us call external API. Most of the statements that follow are initializing  and setting the module.
 
@@ -158,7 +162,7 @@ router.post('/login',function(req,res){
 })
 ```
 
-## Front End
+## <span id="jump4">Front End</span>
 
 ### Why React?
 
@@ -201,9 +205,9 @@ We had modified the original prototypes and wireframes to design what we envisag
 - Create schedule
 
 We don't want our users jump among three different pages, so three components are all included in one page. But in order not to make the web page appear lengthy and chaotic， we use Router Module from React to hide the Resource Link and Add Plan  component until the corresponding button is clicked.
-
-<img src="https://github.com/HKLENG/Desk22-Group/blob/main/report/image/WebOverview.png" style="zoom:30%;" /><img src="https://github.com/HKLENG/Desk22-Group/blob/main/report/image/middlepageOverview.png" alt="middlepageOverview" style="zoom:33%;" /><img src="https://github.com/HKLENG/Desk22-Group/blob/main/report/image/bottomPageOverview.png" alt="bottomPageOverview" style="zoom:33%;" />
-
+<div align=center>
+<img src="https://github.com/HKLENG/Desk22-Group/blob/main/report/image/WebOverview.png" width="33%" height="33%" /><img src="https://github.com/HKLENG/Desk22-Group/blob/main/report/image/middlepageOverview.png" alt="middlepageOverview" width="33%" height="33%" /><img src="https://github.com/HKLENG/Desk22-Group/blob/main/report/image/bottomPageOverview.png" alt="bottomPageOverview" width="33%" height="33%" />
+</div>
 
 
 ##### Welcome Component
@@ -258,9 +262,9 @@ There two levels router included in the component. The first level, which we hav
                 </Link>
               </td>
 ```
-
-​                     <img src="https://github.com/HKLENG/Desk22-Group/blob/main/report/image/Front.png" style="zoom:33%;" /><img src="https://github.com/HKLENG/Desk22-Group/blob/main/report/image/back.png" alt="back" style="zoom:33%;" />
-
+<div align=center>
+​                     <img src="https://github.com/HKLENG/Desk22-Group/blob/main/report/image/Front.png" width="45%" height="45%" /><img src="https://github.com/HKLENG/Desk22-Group/blob/main/report/image/back.png" alt="back" width="45%" height="45%" />
+</div>
 #####  Create schedule component
 
  We divide this component into two parts:
@@ -270,9 +274,9 @@ There two levels router included in the component. The first level, which we hav
 - Part two: we search for the data users request in our database and render it on the website. 
 
 Below is the logic tree of Add Plan component. 
-
-<img src="https://github.com/HKLENG/Desk22-Group/blob/main/report/image/PlanAdd.png" alt="PlanAdd" style="zoom:60%;" />
-
+<div align=center>
+<img src="https://github.com/HKLENG/Desk22-Group/blob/main/report/image/PlanAdd.png" alt="PlanAdd" width="60%" height="60%" />
+</div>
 The right branch represents the part one.
 
 Users can input the data through the Form.js and we can receive data through the onChange **event** in React which detects when the value of an input element changes. Since here we need to handle multiple controlled input elements, we can add a name attribute to each element and let the handler function choose what to do based on the value of event.target.name. 
@@ -349,7 +353,7 @@ The left branch represents the part two. Users input the filtered data(Here we c
 
 
 
-## Deployment Details
+## <span id="jump5">Deployment Details</span>
 
 Due to the impact of covid-19, communications between members of this project are conducted online, and the cost of communications is relatively high. In the early stage of the project, we mainly adopted the idea of separating front and back ends, in order to let front-end and back-end developers only do what they are good at, and to minimize communication costs. Therefore, the team members concentrate on their own responsibilities and implement different functions of the project. The front-end uploads the code to CodeSandBox, and the back-end developers can directly compile it in CodeSandBox, or download it for modification. At the same time, the back-end personnel will return the feedback result.
 
