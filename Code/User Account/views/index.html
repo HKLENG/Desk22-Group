@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Login</title>
+    <style>
+        body {background-image: url("https://images.unsplash.com/photo-1558611848-73f7eb4001a1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1951&q=80"); }
+        @font-face {
+            font-family: 'FreckleFace-Regular';
+            src: url('../font/FreckleFace-Regular.ttf');
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1 style="
+        padding-top: 5rem;
+        padding-bottom: 10rem;
+        margin: 0;
+        color: white;
+        font-family: 'FreckleFace-Regular';
+        font-size: 72px;
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 700;
+        line-height: 26.4px;
+        text-align:center;">
+        User Login
+        </h1>
+    </div>
+<form action="/login" method="post" style="
+    height: 290px;
+    width:300px;
+    padding:10px;
+    background-color:rgb(240, 240, 240);
+    border-radius: 12px;
+    margin:auto;
+    font-size: 24px; 
+    font-weight: bold;">
+    <div class="form-group" style=" 
+        width:200px;
+        padding:18px;
+        margin: auto">
+        <div class="form-name left">
+            <label>Email</label>
+        </div>
+        <input type="email" name="email" value="{{ form && form.email }}" class="form-input left" style="height: 24px; width: 200px;"/>
+    </div>
+    <div class="form-group" style="
+        width:200px;
+        padding:10px;
+        margin: auto">
+        <div class="form-name left">
+            <label>Password</label>
+        </div>
+        <input type="password" name="password" class="form-input left" style="height: 24px; width: 200px;"/>
+    </div>
+    <div class="form-btn" style="
+        width:200px;
+        padding:20px;
+        margin: auto">
+        <input type="submit" value="Login" onclick="getHome()"  style='font-size:20px; margin-left: 15px;'/>
+        <input type="button" value="Register" onclick="getRegist()"  style='font-size:20px; margin-left: 1rem;'/>
+    </div>
+    <div class="form-btn">
+        <label class="warn"><%=err_message %></label>
+    </div>
+    <a href="http://localhost:3000/" target="_self" 
+        style="color: chocolate; font-size: 12px;">>>Welcome Page</a>
+</form>
+<script type="text/javascript">
+    function getRegist(){
+        location.href = "/register";
+    }
+    function getHome(){
+        location.href = "http://localhost:5000/";
+    }
+</script>
+</body>
+</html>
