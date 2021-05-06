@@ -1,0 +1,161 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap");
+
+@import url("https://fonts.googleapis.com/css?family=Creepster+Caps");
+@import url("https://fonts.googleapis.com/css2?family=Freckle+Face&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Freckle+Face&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: "Noto Sans JP", sans-serif;
+}
+.Title {
+  padding-top: 17rem;
+  padding-bottom: 3rem;
+  margin: 0;
+  color: balck;
+  font-family: "Creepster Caps";
+  font-size: 100px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 700;
+  line-height: 26.4px;
+}
+
+.FirstPage {
+  background-image: url("https://images.unsplash.com/photo-1558611848-73f7eb4001a1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1951&q=80");
+}
+
+
+
+.App-styles {
+  margin: 0;
+  padding-bottom: 2rem;
+  background-color: #3f3f3f;
+}
+
+.middle {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.JumpBtn {
+  background: #3498db;
+  border: 1px solid #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  font-family: "Freckle Face", cursive;
+  color: #ffffff;
+  font-size: 38px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.JumpBtn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+
+.JumpDescription {
+  font-family: "Freckle Face", cursive;
+  margin-left: 1rem;
+}
+
+.AppBtn {
+  background-color: #40005d;
+  border: 1px solid #40005d;
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  font-family: "Freckle Face", cursive;
+  color: white;
+  font-size: 38px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.AppBtn:hover {
+  background-color: #510674;
+  border-color: #510674;
+  text-decoration: none;
+}
+
+.AppDescription {
+  font-family: "Freckle Face", cursive;
+  margin-left: 1rem;
+  color: #ffffff;
+}
+
+.bottomTable {
+  padding-top: 2rem;
+  padding-right: 4rem;
+}
+
+.BUTTON_Join {
+  background-color: #C45F11;
+  border: 1px solid #C45F11;
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  font-family: "Freckle Face", cursive;
+  color: white;
+  font-size: 38px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  white-space:nowrap;
+}
+
+.BUTTON_Join:hover {
+  background-color: #F6BA3D;
+  border-color: #F6BA3D;
+  text-decoration: none;
+}
+
+.BUTTON_Plan{
+  background-color: #e62020;
+  border: 1px solid #e62020;
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  font-family: "Freckle Face", cursive;
+  color: white;
+  font-size: 38px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  white-space:nowrap;
+ margin-bottom: 20rem;
+}
+
+.BUTTON_Plan:hover {
+  background-color: #9c1f1f;
+  border-color: #9c1f1f;
+  text-decoration: none;
+}
+
+.JoinDescription{
+  font-family: "Freckle Face", cursive;
+  position: relative;
+  font-size: 38px;
+
+
+}
+.PlanDescription{
+ 
+  font-family: "Freckle Face", cursive;
+  position: relative;
+  font-size: 38px;
+  margin-bottom: 21rem;
+}
