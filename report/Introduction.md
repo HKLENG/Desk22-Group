@@ -26,7 +26,8 @@ With above implementations, there will be a completed entry guidance for fitness
 
 ### Video link
 
-See the video link below showing a brief explanation of our system and how we envisage consumers using Flocus. 
-<hr>
-[Video](https://www.loom.com/share/c9631111d5334984afde46be6d14c818)
+See the [Video](https://www.loom.com/share/c9631111d5334984afde46be6d14c818) link below showing a brief explanation of our system and how we envisage consumers using Flocus. 
+
+
+
 
