@@ -62,7 +62,9 @@ In addition, 5 users mentioned the function of fitness plan, and 3 users mention
 
 We made a mood board by associating with three key words: muscle, suggestion and plan.
 <div align=center>
+  
 ![image](https://user-images.githubusercontent.com/45459767/117396022-0ccc5080-aef1-11eb-89b6-c1c59077fb2d.png)
+
 </div>
 
 Our thoughts include the following points.
@@ -86,7 +88,9 @@ We used Balsamiq, a wireframe design software, to produce a paper prototyping.
 After the paper prototype was unanimously approved by the team, we combined the mainstream webpage functions, survey results and team discussion to make the structure diagram including the interaction with XMind.
 
 <div align=center>
+  
 ![image](https://user-images.githubusercontent.com/45459767/117396051-1786e580-aef1-11eb-98f5-4bd131856464.png)
+
 </div>
 
 #### Preliminary Prototype
@@ -119,11 +123,13 @@ The page used to set up your exercise plan is shown as following.
 
 Search effects are shown as following.
 <div align=center>
+  
 ![image](https://user-images.githubusercontent.com/45459767/117396092-2a99b580-aef1-11eb-9b2c-d330035c8422.png)
 
 ![image](https://user-images.githubusercontent.com/45459767/117396104-2d94a600-aef1-11eb-8625-2aa8b2018fae.png)
 
 ![image](https://user-images.githubusercontent.com/45459767/117396109-31282d00-aef1-11eb-8227-9a6863fa1836.png)
+
 </div>
 
 Calendar Page is shown as following.
