@@ -36,3 +36,26 @@
 </tr>
 </table>
   </div>
+
+## **Report**
+
+### [1. Introduction](report/Introduction.md)
+
+
+### [2. Background and Motivation](report/BackgroundAndMotivation.md)
+
+
+### [3. System Implementation](report/Implementation.md)
+
+
+### [4. UX Design](report/UX Design.md)
+
+
+### [5. Sprints & Project Management](report/sprints&ProjectManagement.md)
+
+
+### [6. Evaluation](report/Evaluation.md)
+
+
+### [7. Conclusion](report/Conclusion.md)
+
