@@ -22,3 +22,10 @@ This web app should implement two functions, suggesting and plan-making, based o
 - A fitness planning system. It should allow user to add daily plans according to suggestions and individual goal. The plans should be displayed on the webpage and update every day.
 
 With above implementations, there will be a completed entry guidance for fitness novices containing basic fitness knowledge and simple plans.
+## System Explanation Video
+
+### Video link
+
+See the video link below showing a brief explanation of our system and how we envisage consumers using Flocus. 
+[Video](https://www.loom.com/share/c9631111d5334984afde46be6d14c818)
+
