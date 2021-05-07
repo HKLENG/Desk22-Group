@@ -140,7 +140,7 @@ Calendar Page is shown as following.
 
 The prototype interaction is shown in the video below
 
-【video】
+[video](https://github.com/HKLENG/Desk22-Group/blob/main/report/image/WeChat_20210507154955.mp4)
 
 ## Second user survey and results
 
