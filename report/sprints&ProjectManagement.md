@@ -87,19 +87,19 @@ These different forms of collaboration help us effectively improve efficiency an
 
  
 
-## <span id="jump3">Sprints Documentation</span>
+## <span id="jump3">Sprints documentation</span>
 
 ### Sprint 1: Background and user research
 
 Week 1 - 3
 
-#### Sprint Aims
+#### Sprint aims
 
 1. Determine the project content.
 2. Determine how to demonstrate the feasibility and significance of the project and take action.
 3. Set up a github repository.
 
-#### Sprint Work
+#### Sprint work
 
 At this stage, we each proposed a number of projects and analyzed their respective feasibility. We spent a lot of time and effort on selecting meaningful projects that needed to be different from existing web applications. 
 
@@ -107,13 +107,13 @@ After determining the content of the project, we began to collect information, c
 
 The details of this work can be seen in Background and UX Design.
 
-#### Meeting Log 1
+#### Meeting log 1
 
 It was the first time we've organized a meeting outside of class, on WeChat. Everyone was present at the meeting.
 
 We talked about the project topics we were interested in and made a preliminary selection. Follow-up, we collected the related information respectively.
 
-#### Meeting Log 2
+#### Meeting log 2
 
 The meeting was held on WeChat and no one was absent.
 
@@ -123,13 +123,13 @@ Before the second group meeting, we had identified the fitness program as the pr
 
 Week 4 - 6
 
-#### Sprint Aims
+#### Sprint aims
 
 1. Redesigned the way teams work.
 2. Learn front-end and back-end knowledge and preliminarily build the rudiment of the website, including the front-end basic page, back-end framework and database, etc.
 3. Adjust according to the user story, for example, Huikang modified the prototype based on users' feedback that they wanted the interface to have a fitness atmosphere, replacing the image in the <img> tag and setting the background image with background-image in CSS.
 
-#### Sprint Work
+#### Sprint work
 
 In the front end, Huikang developed the create schedule module, in which the difficulty lies in the receiving and transmission of user data input, as well as how to extract and display the data expected by users on the page. Therefore, we learned basics of react like component and props, state, user interaction and how to handle user events, and made a preliminary design.
 
@@ -137,13 +137,13 @@ On the back end, the team spent a lot of time learning the basic structure and s
 
 Keyi primarily focused on MongoDB. In our initial idea, there would be two database-related functions, one for the user identification system and the other for the user schedule storage. Since we didn't assemble the front end and back end together, there was no data transfer. Keyi designed the structure of the database, completed a simple database implementation demonstration, and connect to the background. 
 
-#### Meeting Log 3
+#### Meeting log 3
 
 We had a short online meeting on Teams. No one is absent.
 
 We talked about how to work as a team, because we were confused by the messiness of WeChat chats. Finally we decided to use Airtable for major project management, combined with WeChat and other software
 
-#### Meeting Log 4
+#### Meeting log 4
 
 The meeting took place on Teams. No one was absent.
 
@@ -162,13 +162,13 @@ Zhuosi proposed the idea that the height input could be given directly on the si
 
 Week 7 - 9
 
-#### Sprint Aims
+#### Sprint aims
 
 1. Achieve that front-end and back-end are connected.
 2. Solve the rest problems together.
 3. Adjust the project according to the user story for the last time.
 
-#### Sprint Work
+#### Sprint work
 
 On the front end, Huikang continued to complete the welcome page and build resource link. The welcome page was relatively easy to build, and the main difficulty we encountered was the implementation of the interactive images in the Resource Link section. In the prototype, we planed to build an interactive image that could be clicked from multiple places, which was a good idea. However, the difficulty here was that we need to create multiple clickable buttons (or other elements) in multiple locations on the same image and trigger onClick events, which is beyond our ability and difficult to achieve. Therefore, we simplified the functionality of this part: we reduced the interactive image to non-interactive, set multiple clickable images next to the image and redirect the browser to a new page. At the same time, all the contents of this part were divided into two parts, "front of human body" and "back of human body", and could be switched through routing.
 
@@ -178,7 +178,7 @@ Qihang looked at different modules of NodeJS, looking for useful features for ou
 
 Huikang and Keyi had some problems working together on the front and back ends. Since the team developed the front end and back end separately, we used different ports and ran into JavaScript Cross Origin problems. Data couldn't be transferred directly between two different ports, which meant that our idea of separating front and back ends didn't work. We tried Axios, CORS and a few other approaches on the Internet, but we couldn't overcome them. Finally, we had to make some changes to the implementation to integrate functions on one side. We hope to complete the function first and then do iterative optimization in the future.
 
-#### Meeting Log 5
+#### Meeting log 5
 
 Weifeng Dong shared the user story and we implemented these requirements during the meeting.
 
@@ -189,7 +189,7 @@ Weifeng Dong shared the user story and we implemented these requirements during 
 
 We noticed that there were two functional concepts for "Plan", so we changed last "Plan" to "Schedule" to make the distinction.
 
-#### Meeting Log 6
+#### Meeting log 6
 
 We worked together by video conference. All were present.
 
@@ -205,13 +205,13 @@ In addition, the position of the input box of the login interface was set with a
 
 Week 10 - 11
 
-#### Sprint Aims
+#### Sprint aims
 
 1. Evaluate and summarize the project.
 2. Review and organize the entire project.
 3. Written document.
 
-#### Meeting Log 7&8 and Work Assignment
+#### Meeting log 7 & 8 and work assignment
 
 We had the last two meetings. At WeChat, everyone was at the meeting. 
 
