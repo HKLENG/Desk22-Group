@@ -6,7 +6,7 @@
 - [Academic research review](#jump3)
 - [Definition of the project](#jump4)
 
-## <span id="jump">Background literature</span>
+## <span id="jump1">Background literature</span>
 
 **Sports are very important to people's health and deserve attention.**
 
@@ -38,7 +38,7 @@ The possible reason is that the current fitness programs are more suitable for f
 
 To test if this is the true reason, we need to do more research.
 
-## <span id="jump1">Current industry review</span>
+## <span id="jump2">Current industry review</span>
 
 To test this idea, we conducted a questionnaire survey and interviewed among the fitness group (30 people) who took exercise in Marlborough House Gym in Bristol and people who did not want to take exercise (30 people). Feedback has shown that there is lack of functional design that are appropriate for novice exercisers in the mainstream exercise apps. （The details of this survey will be covered in the next chapter.）
 
@@ -54,7 +54,7 @@ JDarPT is set up by a private gym facility based in Birmingham, which is one of 
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 1. The website is beautiful and it shows a lot of before and after photos, which is very attractive.<br/>2. There are ways like chat window to communicate with customer service. | 1. The website is designed to increase the business of the gym. After you ask for something, a staff member will contact you and try to sell the course.<br/>2. The only place that has fitness instructions is a blog, but the content is messy and no one wants to flip through a few pages for fitness tips. |
 
-There are many similar fitness websites, such as Berlin Athletic [13] and Octopus Academy[14]. They are not platforms for knowledge sharing, but platforms for raising awareness for offline gyms. They are more suitable for people who are looking for a offline gym to work out. People can book an experience course through this website and communicate with customer service staff about questions they are interested in, such as the qualification, time and price of the instructor. However, it is obviously not suitable for a novice who just wants to collect fitness knowledge.
+There are many similar fitness websites, such as Berlin Athletic [13] and Octopus Academy[14]. They are not platforms for knowledge sharing, but platforms for raising awareness for offline gyms. They are more suitable for people who are looking for a offline gym to work out. People can book an experience course through this website and communicate with the customer service staff about questions they are interested in, such as the qualification, time and price of the instructors. However, it is obviously not suitable for a novice who just wants to collect fitness knowledge.
 
 ### Apple Fitness+
 
@@ -100,7 +100,7 @@ In our follow-up user survey, we found that some people wanted to gain fitness k
 
 According to a paper by Christianson in California State University[19], providing teenagers with fitness knowledge through curriculum and a student handbook can help them develop a healthy lifestyle, which includes developing fitness habits.
 
-The paper of Stragier in Iminds-MIC-Ghent University shows[20], experienced users prefer to be approved by others in their social relationships, while novice need to self-regulate by achieving an action or goal, which will lead to self-rewarding reactions that can induce further adjustment of goals and continuance of behavior. These conclusion makes us realize that providing users with fitness advice and personalized fitness plan achieves our desired purpose.
+The paper of Stragier in Iminds-MIC-Ghent University shows[20], experienced users prefer to be approved by others in their social relationships, while novice need to self-regulate by achieving an action or goal, which will lead to self-rewarding reactions that can induce further adjustment of goals and continuance of behavior. These conclusions make us realize that providing users with fitness advice and personalized fitness plan achieves our desired purpose.
 
 In addition, Busch's finding in the University of Munster shows that simply tracking exercise through an app doesn't have a substantial effect on mental and physical trust [21]. Compared with the previous conclusions in the literature, it can be concluded that the movement of users can not only be presented in the form of recorded data, but must be set up in advance in order to bring positive effects to users.
 
@@ -108,9 +108,9 @@ In addition, Busch's finding in the University of Munster shows that simply trac
 
 After the above investigation work, we can confirm a feasible project.
 
-The problems we face are that on the one hand, people's fitness awareness is not high and their health is not good, on the other hand, currently available fitness programs are not suitable for non-fitness enthusiasts.
+The problems we face are that on the one hand, people's fitness awareness is not high and their health is not good, on the other hand, currently available fitness programs are not suitable for new hand.
 
-The motivation of the project is to design a fitness program to inspire more people who do not have fitness habits to develop fitness interest, have a healthy lifestyle and body, reduce the risk of various diseases and improve people's quality of life.
+The motivation of the project is to design a fitness program in order to inspire more people who do not have fitness habits to develop fitness interest, have a healthy lifestyle and body, reduce the risk of various diseases and improve people's quality of life.
 
 The innovation and design of the application is to provide users with direct and free fitness knowledge and fitness plan that are suitable for them in a simple interface.
 
