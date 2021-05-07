@@ -2,13 +2,37 @@
 # The members are: Kanghui Leng, Keyi Qin, Zhuosi Zhang, Qihang Zhang, Weifeng Dong.
 
 # Team
-
-| Name          | Role                            |                                                        Photo |
-| ------------- | ------------------------------- | -----------------------------------------------------------: |
-| Weifeng  Dong | Product  Manager                | ![image](https://user-images.githubusercontent.com/45459767/117367261-dcb58b00-aeb9-11eb-9c4a-0646309e7895.png) |
-| Huikang  Leng | Front-end                       | ![image](https://user-images.githubusercontent.com/45459767/117367357-fe167700-aeb9-11eb-9082-80615d383d61.png) |
-| Keyi  Qin     | Back-end   (Database)           | ![image](https://user-images.githubusercontent.com/45459767/117367446-1ab2af00-aeba-11eb-88a8-db0d78a4378e.png) |
-| Zhuosi  Zhang | Back-end  (Framework)           | ![image](https://user-images.githubusercontent.com/45459767/117367404-0b336600-aeba-11eb-843e-8c2679cf2b77.png) |
-| Qihang  Zhang | Back-end  (Runtime Environment) | ![image](https://user-images.githubusercontent.com/45459767/117367457-1e463600-aeba-11eb-8b49-9ef74e35f3dd.png) |
-
-
+<div align=center>
+<table>
+<tr>
+  <th>Name</th>
+  <th>Role</th>
+  <th>Photo</th>
+</tr>
+<tr>
+  <td>Weifeng  Dong</td>
+  <td>Product  Manager</td>
+  <td><img src="https://github.com/HKLENG/Desk22-Group/blob/main/image/%E8%91%A3.png" width="100" height="100"></td>
+</tr>
+<tr>
+  <td>Huikang  Leng </td>
+  <td>Front-end </td>
+  <td><img src="https://github.com/HKLENG/Desk22-Group/blob/main/image/leng.png" width="100" height="100"></td>
+</tr>
+<tr>
+  <td>Keyi  Qin</td>
+  <td>Front-end, Project Management</td>
+  <td><img src="https://github.com/HKLENG/Desk22-Group/blob/main/image/qinke.png" width="100" height="100"></td>
+</tr>
+<tr>
+  <td>Zhuosi  Zhang</td>
+  <td>Back-end  (Framework) </td>
+  <td><img src="https://github.com/HKLENG/Desk22-Group/blob/main/image/zhang.png" width="100" height="100"></td>
+</tr>
+<tr>
+  <td>Qihang  Zhang</td>
+  <td>Back-end  (Runtime Environment)</td>
+  <td><img src="https://github.com/HKLENG/Desk22-Group/blob/main/image/Qihang.png" width="100" height="100"></td>
+</tr>
+</table>
+  </div>
