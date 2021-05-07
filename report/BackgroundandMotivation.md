@@ -112,7 +112,7 @@ The problems we face are that on the one hand, people's fitness awareness is not
 
 The motivation of the project is to design a fitness program to inspire more people who do not have fitness habits to develop fitness interest, have a healthy lifestyle and body, reduce the risk of various diseases and improve people's quality of life.
 
-The innovation and design of the application is to provide users with direct and free fitness knowledge and fitness programs that are suitable for them in a simple interface.
+The innovation and design of the application is to provide users with direct and free fitness knowledge and fitness plan that are suitable for them in a simple interface.
 
 We hope that through this platform, more people will be aware of the importance of fitness, and quickly gain the knowledge of fitness, and have a better quality of life.
 
