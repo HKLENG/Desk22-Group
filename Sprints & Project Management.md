@@ -1,14 +1,23 @@
 # Sprints & Project Management
 
-## Group working methods
+## Table of contents
+- [Group working methods](#jump1)
+- [Individual contributions](#jump2)
+- [Sprints Documentation](#jump3)
+- [Team use of Git](#jump4)
+
+## <span id="jump1">Group working methods</span>
 
 At the beginning, our group did not set up a team work plan. We're just taking it one step at a time. Our main team tool is WeChat, a popular messaging tool in China.
 
 However, we soon ran into some problems. We mix daily chats between friends with project work, and we need to find useful information, such as meeting agendas, results of discussions, notices of various kinds, through a lot of chats and discussions. This has a direct impact on our efficiency.
 
 We decided to use Airtable, a collaborative software, to organize the work. We designed a workspace to consist of "Task List", "Near-term Activities", "Participant", and "Reference Material". One of the pages is shown below.
+<div align=center>
 
 ![image](https://user-images.githubusercontent.com/45459767/117415035-c1756a80-af0f-11eb-8a01-0d31dc373add.png)
+
+</div>
 
 -  In "Task List", we set the tasks that need to be completed in the near future, including the person who is responsible for the task, when the task is completed, and a description of the task.
 - In "Near-term Activities", we publish various meetings, conference results and important notices.
@@ -16,8 +25,11 @@ We decided to use Airtable, a collaborative software, to organize the work. We d
 - In "Reference Material", we upload links to sites of learning materials, completed code and documentation, and other teams' good work for sharing and recording.
 
 It is undoubtedly an Agile management methodology, more similar to Scrumban, a hybrid of Scrum and Kanban.
+<div align=center>
 
 ![image](https://user-images.githubusercontent.com/45459767/117415053-c5a18800-af0f-11eb-930f-4b9affeb2945.png)
+
+</div>
 
 The features of Scrumban include the following.
 
@@ -38,7 +50,7 @@ In addition, we use a variety of collaboration software.
 
 These different forms of collaboration help us effectively improve efficiency and increased flexibility in the team work.
 
-## **Individual contributions**
+## <span id="jump2">**Individual contributions**</span>
 
 ### Qihang Zhang
 
@@ -76,7 +88,7 @@ These different forms of collaboration help us effectively improve efficiency an
 
  
 
-## Sprints Documentation
+## <span id="jump3">Sprints Documentation</span>
 
 ### Sprint 1: Background and user research
 
@@ -205,13 +217,22 @@ Week 10 - 11
 We had the last two meetings. At WeChat, everyone was at the meeting. 
 
 The previous meeting determined the assignment of work, as shown in the figure below.
+
+<div align=center>
+
 ![image](https://user-images.githubusercontent.com/45459767/117415095-d0f4b380-af0f-11eb-8102-86594289a4de.png)
+
+</div>
 
 Among the parts of the document, Team, System Implementation, Sprints & Project Management involves every member of the team, which needs to be completed together, but one member is assigned to put forward requirements, summarize and write the rest of the content. Other parts are completely assigned to a member.
 
 At the 8 th meeting, we discussed the problems in document writing. For example, Weifeng is not clear about the meaning of user story. We sent him the links of relevant materials, and gave specific examples of what needs we found in the past survey were actually user stories.
 
-## Team use of Git
+## <span id="jump4">Team use of Git</span>
 
 Since we were not familiar with GitHub at first, we did not use GitHub for team work and version control. But we also agreed on a way to work together. We use CodeSandbox, an online code editor and prototyping tool, to achieve the team work. In fact, after every major change, we also upload the latest code in WeChat, along with a description of the functionality implemented and the new added or modified code file. This method allows us to keep abreast of how the code is changing and the progress of their work in real time. The code file can be trusted as main branch with the approval of each of the relevant developers. In addition, we use Airtable to back up different versions of the code files to avoid file loss and version confusion, as shown below.
+<div align=center>
+ 
 ![image](https://user-images.githubusercontent.com/45459767/117415109-d520d100-af0f-11eb-99d8-c06b7cc3157a.png)
+
+</div>
