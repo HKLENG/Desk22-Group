@@ -1,6 +1,15 @@
 # Conclusion
 
-## Working practices
+## Table of contents
+
+- [Working practices](#jump1)
+- [Project reflection](#jump2)
+- [Impact of COVID-19 on working practices](#jump3)
+- [Discussion of social and ethical implications of our work](#jump4)
+- [Discussion of future work](#jump5)
+- [Summary](#jump6)
+
+## <span id="jump1">Working practices</span>
 
 ### Team organization
 
@@ -14,7 +23,7 @@ Due to the COVID-19 this year, our team has been communicating online throughout
 
 We started by splitting the code into two parts, the front and back ends, which were written and managed separately at the beginning of the project, and then merged at a later stage when the front and back ends were able to implement some basic functionality. We also started to work on the front and back-end interactions, including the login and registration and recommendation functions. Although these functions were basically implemented in the end, there were some obstacles in the later stages of the project due to the separate writing and management of the code and the lack of timely communication between the front and back ends of the code. But it was these obstacles that helped us to understand the logic and interaction between the front and back ends.
 
-## Project reflection
+## <span id="jump2">Project reflection</span>
 
 ### System design
 
@@ -24,7 +33,7 @@ Both users and team members were satisfied with the design of the system. Our te
 
 In terms of system implementation, our team considers this to be a relatively successful software engineering project. After deploying the application to the server, everything worked fine, the pages jumped smoothly as well as the data storage and reading functioned properly. Although we may not have implemented all the features required by the users on the system, our web pages are built in a modular format and can be easily adapted to the existing pages in the future if additional ideas are presented.
 
-## Impact of COVID-19 on working practices
+## <span id="jump3">Impact of COVID-19 on working practices</span>
 
 ### Remote working practices
 
@@ -38,12 +47,12 @@ The severe virus resulted in us only meeting online, and the online format reduc
 
 The COVID-19 has caused us to spend more time at home rather than out and about. Although recreational activities were reduced, we had more time to rationalise our projects and progressed more smoothly during this time at home.
 
-## Discussion of social and ethical implications of our work
+## <span id="jump4">Discussion of social and ethical implications of our work</span>
 
 Our project provides a platform for all people to get fit and pass on fitness knowledge in the hope that more and more people will start exercising and develop a healthy body, which plays a positive role in our society.
 For user information, we strictly control the use of data and only team members have access to the database where user data is accessed, ensuring privacy and security. In addition, our current fitness plans and recommendations call on some online resources, which may be designed with a bit of copyright issues, but this is our next step and we will design our own fitness plans to suit different people by consulting with relevant fitness scholars and reviewing relevant literature.
 
-## Discussion of future work
+## <span id="jump5">Discussion of future work</span>
 
 ### Delicate UI
 
@@ -57,6 +66,6 @@ We believe that more extensive market research and user testing is necessary to 
 
 Due to time constraints and our incomplete understanding of fitness, we do not offer many recommendations and plans, and the ability to manually add plans is not yet complete. We hope that in time, our team can improve this module and introduce more fitness recommendations and plans for different people, so that more users can customise their own personal plans.
 
-## Summary
+## <span id="jump6">Summary</span>
 
 Overall, we are staisfied with the project. It was very exciting for our team to go from nothing at the beginning to building a web application of our own. We worked well as a team with the guidance and help of the lecturing team, and learned as wel as practiced a lot about software engineering tools, which will make it easier for us to get started in front and back-end development in the future.
