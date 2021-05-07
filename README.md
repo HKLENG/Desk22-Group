@@ -42,13 +42,13 @@
 ### [1. Introduction](report/Introduction.md)
 
 
-### [2. Background and Motivation](report/Background and Motivation.md)
+### [2. Background and Motivation](report/BackgroundandMotivation.md)
 
 
 ### [3. System Implementation](report/Implementation.md)
 
 
-### [4. UX Design](report/UX Design.md)
+### [4. UX Design](report/UXDesign.md)
 
 
 ### [5. Sprints & Project Management](report/sprints&ProjectManagement.md)
