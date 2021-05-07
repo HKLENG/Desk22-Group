@@ -1,6 +1,12 @@
 # Background and Motivation
+## Table of contents
 
-## Background literature
+- [Background literature](#jump1)
+- [Current industry review](#jump2)
+- [Academic research review](#jump3)
+- [Definition of the project](#jump4)
+
+## <span id="jump">Background literature</span>
 
 **Sports are very important to people's health and deserve attention.**
 
@@ -32,7 +38,7 @@ The possible reason is that the current fitness programs are more suitable for f
 
 To test if this is the true reason, we need to do more research.
 
-## Current industry review
+## <span id="jump1">Current industry review</span>
 
 To test this idea, we conducted a questionnaire survey and interviewed among the fitness group (30 people) who took exercise in Marlborough House Gym in Bristol and people who did not want to take exercise (30 people). Feedback has shown that there is lack of functional design that are appropriate for novice exercisers in the mainstream exercise apps. （The details of this survey will be covered in the next chapter.）
 
@@ -86,7 +92,7 @@ Keep is the most popular fitness app in China, with 2.055 billion downloads, acc
 
 Keep and Mi Fit are like two extremes in two directions. There are a large number of fitness enthusiasts in Keep. From the photos shared, we can see that they often have strong body. Therefore, it is not surprising that the course is too difficult and complicated, since Keep's target users are those people who love fitness. Newbies need more instruction, but they are often unwilling to pay for it in the early stages, which creates a logical conflict with membership.
 
-## Academic research review
+## <span id="jump3">Academic research review</span>
 
 Once it has been proven that current fitness programs are not suitable for beginners, it is worth exploring how to increase interest in fitness among non-exercisers when we design a fitness program.
 
@@ -98,7 +104,7 @@ The paper of Stragier in Iminds-MIC-Ghent University shows[20], experienced user
 
 In addition, Busch's finding in the University of Munster shows that simply tracking exercise through an app doesn't have a substantial effect on mental and physical trust [21]. Compared with the previous conclusions in the literature, it can be concluded that the movement of users can not only be presented in the form of recorded data, but must be set up in advance in order to bring positive effects to users.
 
-## Definition of the project
+## <span id="jump4">Definition of the project</span>
 
 After the above investigation work, we can confirm a feasible project.
 
