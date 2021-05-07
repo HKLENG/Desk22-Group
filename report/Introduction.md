@@ -27,7 +27,7 @@ With above implementations, there will be a completed entry guidance for fitness
 
 ### Video link
 
-See the [Video](https://www.loom.com/share/c9631111d5334984afde46be6d14c818) link below showing a brief explanation of our system. 
+See the [Video](https://www.loom.com/share/c9631111d5334984afde46be6d14c818) link showing a brief explanation of our system. 
 
 
 
